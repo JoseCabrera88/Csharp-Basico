@@ -1,0 +1,8 @@
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\4. Leer Teclado\Leer Teclado\Leer Teclado\bin\Debug\Leer Teclado.exe.config
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\4. Leer Teclado\Leer Teclado\Leer Teclado\bin\Debug\Leer Teclado.exe
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\4. Leer Teclado\Leer Teclado\Leer Teclado\bin\Debug\Leer Teclado.pdb
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\4. Leer Teclado\Leer Teclado\Leer Teclado\obj\Debug\Leer Teclado.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\4. Leer Teclado\Leer Teclado\Leer Teclado\obj\Debug\Leer Teclado.csproj.SuggestedBindingRedirects.cache
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\4. Leer Teclado\Leer Teclado\Leer Teclado\obj\Debug\Leer Teclado.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\4. Leer Teclado\Leer Teclado\Leer Teclado\obj\Debug\Leer Teclado.exe
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\4. Leer Teclado\Leer Teclado\Leer Teclado\obj\Debug\Leer Teclado.pdb

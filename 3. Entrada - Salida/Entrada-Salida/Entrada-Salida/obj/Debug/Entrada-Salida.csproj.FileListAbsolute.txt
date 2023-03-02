@@ -1,0 +1,8 @@
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\3. Entrada - Salida\Entrada-Salida\Entrada-Salida\bin\Debug\Entrada-Salida.exe.config
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\3. Entrada - Salida\Entrada-Salida\Entrada-Salida\bin\Debug\Entrada-Salida.exe
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\3. Entrada - Salida\Entrada-Salida\Entrada-Salida\bin\Debug\Entrada-Salida.pdb
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\3. Entrada - Salida\Entrada-Salida\Entrada-Salida\obj\Debug\Entrada-Salida.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\3. Entrada - Salida\Entrada-Salida\Entrada-Salida\obj\Debug\Entrada-Salida.csproj.SuggestedBindingRedirects.cache
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\3. Entrada - Salida\Entrada-Salida\Entrada-Salida\obj\Debug\Entrada-Salida.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\3. Entrada - Salida\Entrada-Salida\Entrada-Salida\obj\Debug\Entrada-Salida.exe
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\3. Entrada - Salida\Entrada-Salida\Entrada-Salida\obj\Debug\Entrada-Salida.pdb

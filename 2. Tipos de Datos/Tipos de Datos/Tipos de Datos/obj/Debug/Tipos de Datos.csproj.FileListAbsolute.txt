@@ -1,0 +1,8 @@
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\5. Condiciones\Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.exe.config
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\5. Condiciones\Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.exe
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\5. Condiciones\Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.pdb
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\5. Condiciones\Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\5. Condiciones\Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\5. Condiciones\Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\5. Condiciones\Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.exe
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Ejemplos de C# - Basico\5. Condiciones\Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.pdb
